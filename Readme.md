@@ -1,0 +1,1 @@
+# Sinatra sample app
